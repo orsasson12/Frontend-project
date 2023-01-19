@@ -4,6 +4,7 @@ A comparison of two frontend style tools
 After I finished making both the tailwind and material user interface projects. In order to compare them, I made almost the same project with another tool. I want to compare them. Unless you upload code, there is no better way to do that, so I'll put a few images that illustrate the differences between them. If someone can help me to understand better, I'd love to hear from you. I look forward to your enjoyment 😁. 
 
 Material-Ui 
+
 ![image](https://user-images.githubusercontent.com/55879173/213444971-cfa547a9-4432-425a-8a3c-9fb5f2f5ecc2.png)
 ![image](https://user-images.githubusercontent.com/55879173/213445005-5abe202f-b0a1-499f-9d6a-2e448e841071.png)
 
